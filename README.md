@@ -9,4 +9,4 @@ users to delete their messages due to suspected spam or flooding.
 Note: Before running the bot, you need to insert your bot's token in the last line of code bot.run('TOKEN'). The token 
 can be obtained in the "Bot" section of your Discord developer page. You also need to add your bot to the server you want to run it on.
 
-# 
+# I am not responsible for the functionality of the bot
