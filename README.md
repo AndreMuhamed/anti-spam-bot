@@ -1,4 +1,4 @@
-# anti-spam-bot
+# Аnti-spam-bot
 This bot will monitor the server for spam, flood and other unwanted messages and automatically delete them
 
 
