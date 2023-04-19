@@ -20,4 +20,3 @@ async def on_message(message):
         await message.channel.send(f'{message.author.mention}, ваше повідомлення було видалено через підозру на спам або флуд.')
 
 bot.run('TOKEN') # тут потрібно вставити токен вашого бота
-пекркпртип
