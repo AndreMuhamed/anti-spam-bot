@@ -13,3 +13,4 @@ can be obtained in the "Bot" section of your Discord developer page. You also ne
 
 # I am not responsible for the functionality of the bot
 ептаптаптавт
+ватавтватв
