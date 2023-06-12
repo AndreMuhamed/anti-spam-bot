@@ -15,3 +15,4 @@ can be obtained in the "Bot" section of your Discord developer page. You also ne
 мыфифв
 ркуркур
 ркукукукукукукукукукуку
+цпуууууууууу
