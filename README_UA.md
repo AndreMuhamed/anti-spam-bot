@@ -1,6 +1,9 @@
 Створення вашого першого Discord-бота Anti-Spam
 
 
+
+![bots-de-economia-discord-768x432](https://user-images.githubusercontent.com/128980327/232897933-38097a7f-e8eb-4b6f-b505-497d4b9508bd.jpg)
+
 *Крок 1: Створення нового Discord-бота і отримання токену бота.*
 1. Перейдіть на сайт розробника Discord (https://discord.com/developers/applications).
 2. Увійдіть в свій обліковий запис або створіть новий.
