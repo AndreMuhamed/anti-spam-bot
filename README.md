@@ -73,4 +73,4 @@ bot.run('YOUR_BOT_TOKEN')
 **Step 4: Running the Anti-Spam bot.**
 Run your bot by executing the code file from the command line or by hosting it on a hosting server. Once the bot is running, it will begin monitoring messages and reacting to spam.
 
-**Please note that this example is basic and does not include additional Anti-Spam features such as checking for spam messages with identical text or using machine learning algorithms to detect spam. You can extend this code based on your needs and the requirements of your Discord server.**пиеиеиеие
+**Please note that this example is basic and does not include additional Anti-Spam features such as checking for spam messages with identical text or using machine learning algorithms to detect spam. You can extend this code based on your needs and the requirements of your Discord server.**пиеиеиеиеииикамв
